@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Asansol",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-31T08:35:31.000Z",
+      "notes": "It's was a very nice city.",
+      "position": {
+        "lat": "23.68485528049907",
+        "lng": "86.9833634328333"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Dhanbad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-03T08:36:01.370Z",
+      "notes": "Chikki of dhanbad is very famous",
+      "position": {
+        "lat": "23.787918444731574",
+        "lng": "86.42947669575136"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Nyemo",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-09-03T08:36:51.562Z",
+      "notes": "Chinese city",
+      "position": {
+        "lat": "29.449675478260197",
+        "lng": "90.43085701505747"
+      },
+      "id": 3
+    }
+  ]
+}

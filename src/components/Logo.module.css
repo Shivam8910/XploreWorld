@@ -1,0 +1,12 @@
+.logo {
+  display: flex;
+  height: 5.2rem;
+}
+
+.logo h1 {
+  font-size: 4rem;
+  line-height: 1.3;
+  text-transform: none;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
